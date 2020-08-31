@@ -1,0 +1,56 @@
+@import 'https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js';
+/* Body Style STart */
+.h3{
+  color: black;
+  /* background-color: black; */
+  text-align: center;
+  font-family: Century Gothic;
+  font-weight: bold;
+  padding: 0;
+  
+  font-size: 70px;
+}
+
+/* Body Style Ends */
+/* Date Style*/
+.App{
+  color: black;
+  text-align: center;
+  margin: 0%;
+  font-family: Century Gothic;
+  font-size: 35px;
+}
+/*  */
+.fake{
+  max-width: 50%;
+  height: 30%;
+  position:relative; 
+  
+  top:22px;
+}
+/* Navbar Style Start */
+nav{
+  background-color: green !important;
+  font-weight: bold;
+  border: 2px rgb(0, 124, 0) !important;
+}
+.bold{
+  color: white !important;
+  font-family: sans-serif;
+}
+
+#find{
+  color: white;
+}
+.icon-bar{
+  border-color: white;
+  background-color: green;
+}
+.green{
+  background-color: green !important;
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+/* Navbar Style End */
+/* Login Style */
